@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shyama Menon</h1>
 <h3 align="center">A passionate web developer based in Bergen, Norway</h3>
 
-- 🌱 I’m currently learning **React**
-
 - 💬 Ask me about **RoR, HTML, CSS, JavaScript, Java**
 
 - 📫 How to reach me **shyama12@hotmail.com**
